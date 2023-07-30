@@ -22,22 +22,6 @@ function readNumberFromFile(filePath: string): Promise<number> {
     });
 }
 
-
-
-
-
-
-
 export default readNumberFromFile
-
-
-
-
-
-
-
-
-
-
 
 
